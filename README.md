@@ -1,6 +1,8 @@
 # About me
 
 Hi there 👋
+You've reached the profile page for Hiep Truong.
+Check out https://enhiep.nl/ to find out more.
 
 <!--
 **ampersandhiep/Ampersandhiep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
