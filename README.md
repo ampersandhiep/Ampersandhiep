@@ -2,7 +2,12 @@
 
 Hi there 👋
 You've reached the profile page for Hiep Truong.
+
+Owner of &Hiep - where I unravel complexity through visuals for my clients.
+Co-Founder of Drawn Today - a visual consultancy agency focused on change management.
+
 Check out https://enhiep.nl/ to find out more.
+Check out https://drawn.today/ to find out more.
 
 <!--
 **ampersandhiep/Ampersandhiep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
