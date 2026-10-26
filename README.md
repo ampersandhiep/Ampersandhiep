@@ -4,7 +4,8 @@ Hi there 👋
 You've reached the profile page for Hiep Truong.
 
 Owner of &Hiep - where I unravel complexity through visuals for my clients.
-Co-Founder of Drawn Today - a visual consultancy agency focused on change management.
+Independent creator.
+Co-Founder of Visual Contracts - a SaaS start-up where we work on better access to justice, we help you create Visual Contracts.
 
 Check out https://enhiep.nl/ to find out more.
 Check out https://roofscape.app/ to check out my game.
